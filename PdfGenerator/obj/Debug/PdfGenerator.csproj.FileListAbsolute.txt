@@ -1,0 +1,10 @@
+C:\Users\e6420\Desktop\PdfGenerator_CS\PdfGenerator\bin\Debug\PdfGenerator.exe
+C:\Users\e6420\Desktop\PdfGenerator_CS\PdfGenerator\bin\Debug\PdfGenerator.pdb
+C:\Users\e6420\Desktop\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.csprojResolveAssemblyReference.cache
+C:\Users\e6420\Desktop\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.Form1.resources
+C:\Users\e6420\Desktop\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.Properties.Resources.resources
+C:\Users\e6420\Desktop\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.csproj.GenerateResource.cache
+C:\Users\e6420\Desktop\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.csproj.CoreCompileInputs.cache
+C:\Users\e6420\Desktop\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.csproj.CopyComplete
+C:\Users\e6420\Desktop\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.exe
+C:\Users\e6420\Desktop\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.pdb
